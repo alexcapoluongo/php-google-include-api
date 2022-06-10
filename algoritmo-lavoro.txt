@@ -1,0 +1,16 @@
+// SERVER (BACK END)
+1. Creare file database.php
+2. Creare file server.php
+3. importare database all'inderno al server
+4. codificare database in json
+5. aggiungere content type e inviare i dati con echo 
+6. Testare tutto con postman
+
+
+// FRONT END
+1. creare il template index.php
+2. aggiungere cdn di axios e vuejs
+3. creare lo script di js 
+4. inizializzare vuejs 
+5. chiamata axios
+6. stampare in pagine tramite v-for
